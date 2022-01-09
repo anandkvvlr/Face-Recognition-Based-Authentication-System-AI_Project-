@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Face Recognition Login System</title>
+
+	<style type="text/css">
+		
+		body{
+			background-image:url('https://wallpaperaccess.com/full/1398313.jpg');
+			background-size: cover;
+			background-attachment: fixed;
+            padding:0px 350px;
+		}
+
+		.content{
+			background: white;
+			width: 50%;
+			padding: 40px;
+			margin: 100px auto;
+			font-family: calibri;
+			border-radius: 10px;
+		}
+
+		p{
+			font-size: 25px;
+			color: black;
+		}
+
+	</style>
+</head>
+<body>
+ <h1 style=" text-align:center;color:red; font-size: 60px; font-style:italic; ">Face Recognition Login System</h1>
+<style>
+.container {
+  height: 200px;
+  position: relative;
+}
+
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+</style>
+
+<div class="container">
+  <div class="center">
+    <button style="text-align:center;color:blue; background-color:black; font-size: 25px; border-radius: 12px; font-style:italic;" onClick="
+    parent.location='http://127.0.0.1:5000/video_feed'" >Sign In</button>
+	 <button style="text-align:center;color:blue; background-color:black; font-size: 25px; border-radius: 12px; font-style:italic;" onClick="
+    parent.location='http://127.0.0.1:5000/tool/requests'" >Sign Up</button>
+	</div>
+</div>
+</body>
+</html>
