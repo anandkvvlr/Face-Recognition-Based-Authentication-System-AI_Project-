@@ -38,13 +38,12 @@
 ### DEPLOYMENT OUTPUT
 ![image](https://user-images.githubusercontent.com/88075268/148683328-4e19528c-34c2-4d97-b698-d86ddf4f8ddb.png)
 
-### Conclusion![image](https://user-images.githubusercontent.com/88075268/148683338-51193ffe-06c2-474b-91ac-cd650807076f.png)
+### Conclusion
 •Face recognition is an emerging technology that can provide many benefits. Face recognition can save resources and time
 •Face recognition systems are far from ideal to perform adequately in all situations form real world
 •The project  aims is to  build  an  effective    attendance system  using  face  recognition  techniques.  The  facial recognition system will be able to mark the attendance via face Id. It will detect faces via webcam and then recognize the faces. After recognition,  it  will  mark  the  attendance  of  the  recognized person and update the attendance data to folder with name,time and date
 •Capturing live images from camera and applying different techniques of face detection and face recognition which will reduce manual or traditional work
 •And also time takes to login the system is fast because it encodes data automatically itself in background
-![image](https://user-images.githubusercontent.com/88075268/148683346-3e246947-7fda-42b5-8437-c89d6ad4a841.png)
 
 ### Future Scope
 ![image](https://user-images.githubusercontent.com/88075268/148683396-bc65c6e0-c4be-49f6-a696-05368156d5dd.png)
