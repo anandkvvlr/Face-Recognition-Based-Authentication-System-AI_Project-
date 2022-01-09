@@ -24,6 +24,8 @@
 ### Technical Stacks
 ![image](https://user-images.githubusercontent.com/88075268/148683224-b8c098b7-0cea-4fdd-9791-603bcf383e3c.png)
 
+
+
 ### Project Architecture / Data Pipeline
 ![image](https://user-images.githubusercontent.com/88075268/148683257-0da8e88e-572c-4c7c-9c35-64d4001b5ec7.png)
 
@@ -34,6 +36,8 @@
       - The model is then pretrained to register the new user
 ### Model Description 
 ![image](https://user-images.githubusercontent.com/88075268/148683307-b0d5ae75-134b-489f-a8f5-ac5601a03659.png)
+
+
 
 ### DEPLOYMENT OUTPUT
 ![image](https://user-images.githubusercontent.com/88075268/148683328-4e19528c-34c2-4d97-b698-d86ddf4f8ddb.png)
